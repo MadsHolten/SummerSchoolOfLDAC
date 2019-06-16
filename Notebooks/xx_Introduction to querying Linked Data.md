@@ -21,10 +21,8 @@ In the “Triples” panel you see the nodes and edges described using the follo
 `<nodeA> <edge> <nodeB> .`
 Note the period sign in the end. This is important as it indicates that the first “triple” is finished. One of the principles of Linked Data is to use Uniform Resource Identifiers (URIs) to name the triple subcomponents but for now we will use this simplified syntax. SPARQL is the name of the query language that we use to query an RDF graph.
 
-#### 1. Generate a small building graph
-Use this simple syntax to define nodes and edges that describes the building and space we are in from your personal perspective (fire exit strategy, static system, thermal envelope, construction management, ???). Limit the extent to maximum 3 different classes and 3 relationships. The image below illustrates what such a graph might look like:
-
-![alt text](https://d1.awsstatic.com/product-marketing/Neptune/Neptune-Diagram_knowledge-graph.22076f2eae8aa3e7f3c6c7e7b11a181dfe1b4002.png "Amazon Neptune knowledge graph")
+#### 1. Digitize your hand drawn graph
+Use this simple syntax to define nodes and edges of the graph you have drawn with pen and paper.
 
 Follow the instructions at tab *1. Sample Data* and provide the full URL to the SPARQL-visualizer you have generated.
 

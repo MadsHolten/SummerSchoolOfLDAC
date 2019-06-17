@@ -2,7 +2,7 @@
 
 Edited by: [Mads Holten Rasmussen](https://www.researchgate.net/profile/Mads_Holten_Rasmussen)  
     
-
+Slides are available [online](http://www.student.dtu.dk/~mhoras/presentations/ssoldac)
 
 This document outlines a set of exercises that will introduce xx
 
